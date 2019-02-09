@@ -1,1286 +1,32 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Band HD">
-    <display-name lang="pt">Band HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Band HD¹">
-    <display-name lang="es">Band HD¹</display-name>
-    <url>http://www.mi.tv</url>
-  </channel>
-  <channel id="Band RBS FHD¹">
-    <display-name lang="es">Band RBS FHD¹</display-name>
-    <url>http://www.mi.tv</url>
-  </channel>
-  <channel id="BandSports FHD">
-    <display-name lang="pt">BandSports FHD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="BandSports FHD¹">
-    <display-name lang="es">BandSports FHD¹</display-name>
-    <url>http://www.mi.tv</url>
-  </channel>
-  <channel id="BandSports HD">
-    <display-name lang="pt">BandSports HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="BandSports HD¹">
-    <display-name lang="pt">BandSports HD¹</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="BandSports SD">
-    <display-name lang="pt">BandSports SD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvpampa.gif|http://www.lineup.tv.br/canais/redetv.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Cancao Nova FHD">
-    <display-name lang="pt">Cancao Nova FHD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Cancao Nova FHD¹">
-    <display-name lang="es">Cancao Nova FHD¹</display-name>
-    <url>http://www.mi.tv</url>
-  </channel>
-  <channel id="Cancao Nova HD">
-    <display-name lang="pt">Cancao Nova HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Cancao Nova HD¹">
-    <display-name lang="pt">Cancao Nova HD¹</display-name>
-    <icon src="http://www.lineup.tv.br/canais/3aviatv.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Cancao Nova SD">
-    <display-name lang="pt">Cancao Nova SD</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Cartoon Network FHD">
-    <display-name lang="pt">Cartoon Network FHD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Cartoon Network FHD¹">
-    <display-name lang="es">Cartoon Network FHD¹</display-name>
-    <url>http://www.mi.tv</url>
-  </channel>
-  <channel id="Cartoon Network HD">
-    <display-name lang="pt">Cartoon Network HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Cartoon Network HD¹">
-    <display-name lang="pt">Cartoon Network HD¹</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvnovotempo.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Cartoon Network SD">
-    <display-name lang="pt">Cartoon Network SD</display-name>
-    <url>http://www.clarotv.com.br</url>
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
   </channel>
   <channel id="Cinemax FHD">
     <display-name lang="pt">Cinemax FHD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Cinemax FHD¹">
-    <display-name lang="es">Cinemax FHD¹</display-name>
-    <url>http://www.mi.tv</url>
+  <channel id="HBO FHD">
+    <display-name lang="pt">HBO FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Cinemax HD">
-    <display-name lang="pt">Cinemax HD</display-name>
-    <url>http://www.meuguia.tv</url>
+  <channel id="HBO 2 FHD">
+    <display-name lang="pt">HBO 2 FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Cinemax HD¹">
-    <display-name lang="pt">Cinemax HD¹</display-name>
-    <icon src="http://www.lineup.tv.br/canais/band-piaui.gif|http://www.lineup.tv.br/canais/band.gif" />
-    <url>http://www.lineup.net.br</url>
+  <channel id="Telecine Action HD">
+    <display-name lang="pt">Telecine Action HD</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Cinemax SD">
-    <display-name lang="pt">Cinemax SD</display-name>
-    <url>http://www.clarotv.com.br</url>
+  <channel id="SporTV FHD">
+    <display-name lang="pt">SporTV FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <programme start="20190209002000 -0400" stop="20190209002500 -0400" channel="Band HD">
-    <title lang="pt">Que Fim Levou?</title>
-    <sub-title lang="pt">Boletim</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209002500 -0400" stop="20190209015500 -0400" channel="Band HD">
-    <title lang="pt">Vídeos Incríveis</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209015500 -0400" stop="20190209030000 -0400" channel="Band HD">
-    <title lang="pt">Efeito Carbonaro</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209030000 -0400" stop="20190209043000 -0400" channel="Band HD">
-    <title lang="pt">Jogo Aberto</title>
-    <sub-title lang="pt">Reapresentação</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209043000 -0400" stop="20190209052000 -0400" channel="Band HD">
-    <title lang="pt">Os Donos da Bola</title>
-    <sub-title lang="pt">Reapresentação</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209052000 -0400" stop="20190209053500 -0400" channel="Band HD">
-    <title lang="pt">Vídeonews</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209053500 -0400" stop="20190209060000 -0400" channel="Band HD">
-    <title lang="pt">Vídeos Incríveis</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209060000 -0400" stop="20190209070000 -0400" channel="Band HD">
-    <title lang="pt">+info</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209070000 -0400" stop="20190209072200 -0400" channel="Band HD">
-    <title lang="pt">Mundo Real</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209072200 -0400" stop="20190209073000 -0400" channel="Band HD">
-    <title lang="pt">Jonas Santana Notícias</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209073000 -0400" stop="20190209080000 -0400" channel="Band HD">
-    <title lang="pt">Somos Agro</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209080000 -0400" stop="20190209083000 -0400" channel="Band HD">
-    <title lang="pt">Exerça sua Fé</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209083000 -0400" stop="20190209090000 -0400" channel="Band HD">
-    <title lang="pt">Louvor e Mensagem</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209090000 -0400" stop="20190209093000 -0400" channel="Band HD">
-    <title lang="pt">Tempo de Atitude</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209093000 -0400" stop="20190209100000 -0400" channel="Band HD">
-    <title lang="pt">Gol: O Grande Momento do Futebol</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209100000 -0400" stop="20190209110000 -0400" channel="Band HD">
-    <title lang="pt">Projeto Vida Nova na TV</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209110000 -0400" stop="20190209113000 -0400" channel="Band HD">
-    <title lang="pt">Rompendo em Fé</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209113000 -0400" stop="20190209120000 -0400" channel="Band HD">
-    <title lang="pt">Capital Natural</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209120000 -0400" stop="20190209123000 -0400" channel="Band HD">
-    <title lang="pt">Guia da Facu</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209123000 -0400" stop="20190209124500 -0400" channel="Band HD">
-    <title lang="pt">Verdade &amp; Vida</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209124500 -0400" stop="20190209133000 -0400" channel="Band HD">
-    <title lang="pt">Efeito Carbonaro</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209133000 -0400" stop="20190209160000 -0400" channel="Band HD">
-    <title lang="pt">Jogos das Estrelas: NBB Brasil x NBB Mundo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209160000 -0400" stop="20190209185000 -0400" channel="Band HD">
-    <title lang="pt">Brasil Urgente</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209185000 -0400" stop="20190209192000 -0400" channel="Band HD">
-    <title lang="pt">Jornal do Rio</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209192000 -0400" stop="20190209202500 -0400" channel="Band HD">
-    <title lang="pt">Jornal da Band</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209202500 -0400" stop="20190209211000 -0400" channel="Band HD">
-    <title lang="pt">Minha Vida</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209211000 -0400" stop="20190209220000 -0400" channel="Band HD">
-    <title lang="pt">Igreja da Graça</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209220000 -0400" stop="20190209220500 -0400" channel="Band HD">
-    <title lang="pt">Agenda dos Pastores</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209220500 -0400" stop="20190209223000 -0400" channel="Band HD">
-    <title lang="pt">Vídeonews</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209223000 -0400" stop="20190209232000 -0400" channel="Band HD">
-    <title lang="pt">Justiça Implacável</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209232000 -0400" stop="20190210010000 -0400" channel="Band HD">
-    <title lang="pt">Cine+ Reféns</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209003000 -0400" stop="20190209004500 -0400" channel="BandSports FHD">
-    <title lang="pt">Gol</title>
-    <sub-title lang="pt">O Grande Momento do Futebol</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209004500 -0400" stop="20190209010000 -0400" channel="BandSports FHD">
-    <title lang="pt">Sacada do Saretta</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209010000 -0400" stop="20190209013000 -0400" channel="BandSports FHD">
-    <title lang="pt">Poker Night</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209013000 -0400" stop="20190209020000 -0400" channel="BandSports FHD">
-    <title lang="pt">Mini Doc. Bandsports</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209020000 -0400" stop="20190209040000 -0400" channel="BandSports FHD">
-    <title lang="pt">Baita Amigos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209040000 -0400" stop="20190209050000 -0400" channel="BandSports FHD">
-    <title lang="pt">Bandsports News</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209050000 -0400" stop="20190209051500 -0400" channel="BandSports FHD">
-    <title lang="pt">Gol</title>
-    <sub-title lang="pt">O Grande Momento do Futebol</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209051500 -0400" stop="20190209053000 -0400" channel="BandSports FHD">
-    <title lang="pt">Sacada do Saretta</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209053000 -0400" stop="20190209060000 -0400" channel="BandSports FHD">
-    <title lang="pt">Poker Night</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209060000 -0400" stop="20190209080000 -0400" channel="BandSports FHD">
-    <title lang="pt">Bandsports News</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209080000 -0400" stop="20190209081500 -0400" channel="BandSports FHD">
-    <title lang="pt">Gol</title>
-    <sub-title lang="pt">O Grande Momento do Futebol</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209081500 -0400" stop="20190209083000 -0400" channel="BandSports FHD">
-    <title lang="pt">Sacada do Saretta</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209083000 -0400" stop="20190209090000 -0400" channel="BandSports FHD">
-    <title lang="pt">Papo de Boleiro</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209090000 -0400" stop="20190209110000 -0400" channel="BandSports FHD">
-    <title lang="pt">Baita Amigos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209110000 -0400" stop="20190209120000 -0400" channel="BandSports FHD">
-    <title lang="pt">Doc. Bandsports</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209120000 -0400" stop="20190209123000 -0400" channel="BandSports FHD">
-    <title lang="pt">Papo de Boleiro</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209123000 -0400" stop="20190209130000 -0400" channel="BandSports FHD">
-    <title lang="pt">Gol</title>
-    <sub-title lang="pt">O Grande Momento do Futebol</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209130000 -0400" stop="20190209140000 -0400" channel="BandSports FHD">
-    <title lang="pt">Vila Bandsports</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209140000 -0400" stop="20190209160000 -0400" channel="BandSports FHD">
-    <title lang="pt">Baita Amigos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209160000 -0400" stop="20190209170000 -0400" channel="BandSports FHD">
-    <title lang="pt">Doc. Bandsports</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209170000 -0400" stop="20190209173000 -0400" channel="BandSports FHD">
-    <title lang="pt">Papo de Boleiro</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209173000 -0400" stop="20190209174500 -0400" channel="BandSports FHD">
-    <title lang="pt">Gol</title>
-    <sub-title lang="pt">O Grande Momento do Futebol</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209174500 -0400" stop="20190209180000 -0400" channel="BandSports FHD">
-    <title lang="pt">Sacada do Saretta</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209180000 -0400" stop="20190209190000 -0400" channel="BandSports FHD">
-    <title lang="pt">Bandsports News</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209190000 -0400" stop="20190209200000 -0400" channel="BandSports FHD">
-    <title lang="pt">PBR</title>
-    <sub-title lang="pt">Bull Riders</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209200000 -0400" stop="20190209210000 -0400" channel="BandSports FHD">
-    <title lang="pt">Vila Bandsports</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209210000 -0400" stop="20190209220000 -0400" channel="BandSports FHD">
-    <title lang="pt">Bandsports News</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209220000 -0400" stop="20190210000000 -0400" channel="BandSports FHD">
-    <title lang="pt">NBB: Jogo das Estrelas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209000000 -0400" stop="20190209010000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">O Amor Vencerá</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209010000 -0400" stop="20190209013000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Academia do Som</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209013000 -0400" stop="20190209020000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Preservação Ambiental</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209020000 -0400" stop="20190209030000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Escola da Fé</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209030000 -0400" stop="20190209033000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Terço da Misericórdia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209033000 -0400" stop="20190209040000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Ofício da Imaculada Conceição</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209040000 -0400" stop="20190209041500 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Pai das Misericórdias</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209041500 -0400" stop="20190209050000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Canção Nova Notícias</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209050000 -0400" stop="20190209060000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Nossa Missão é Evangelizar</title>
-    <sub-title lang="pt">Pe. Fabio de Melo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209060000 -0400" stop="20190209063300 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Santo Terço</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209063300 -0400" stop="20190209064000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Palavra de Vida Eterna</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209064000 -0400" stop="20190209070000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Salmos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209070000 -0400" stop="20190209080000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Santa Missa do Santuário Pai das Misericórdias</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209080000 -0400" stop="20190209093000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Sorrindo pra Vida</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209093000 -0400" stop="20190209113000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Cantinho da Criança</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209113000 -0400" stop="20190209120000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Juntos Somos Mais</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209120000 -0400" stop="20190209123000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Na Escola de Nazaré</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209123000 -0400" stop="20190209133000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Nosso Canto Nosso Chão</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209133000 -0400" stop="20190209140000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Parte de Nós</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209140000 -0400" stop="20190209150000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Mons Jonas Abib</title>
-    <sub-title lang="pt">Nossa Missão É Evangelizar</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209150000 -0400" stop="20190209153000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Terço da Misericórdia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209153000 -0400" stop="20190209160000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Ajuda à Igreja que Sofre</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209160000 -0400" stop="20190209163000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Daí-me Almas Especial</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209163000 -0400" stop="20190209170000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Fazendo Esperança</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209170000 -0400" stop="20190209173000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Educar na Fé</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209173000 -0400" stop="20190209174800 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Terra Santa News</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209174800 -0400" stop="20190209175800 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Angelus Na Basílica da Anunciação</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209175800 -0400" stop="20190209183000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Santo Terço</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209183000 -0400" stop="20190209185700 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Ofício da Imaculada Conceição</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209185700 -0400" stop="20190209200000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Procissão Das Luzes Na Basílica da Anunciação</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209200000 -0400" stop="20190209210000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Direção Espiritual</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209210000 -0400" stop="20190209223000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">Show Irmã Kelly Patrícia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209223000 -0400" stop="20190210000000 -0400" channel="Cancao Nova FHD">
-    <title lang="pt">PHN</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209000300 -0400" stop="20190209001500 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Steven Universo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209001500 -0400" stop="20190209002700 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Steven Universo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209002700 -0400" stop="20190209003900 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Steven Universo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209003900 -0400" stop="20190209005100 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Steven Universo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209005100 -0400" stop="20190209011600 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Apenas um Show</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209011600 -0400" stop="20190209012700 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Apenas um Show</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209012700 -0400" stop="20190209014000 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Apenas um Show</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209014000 -0400" stop="20190209015100 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Apenas um Show</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209015100 -0400" stop="20190209020200 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Apenas um Show</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209020200 -0400" stop="20190209021400 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">As Meninas Superpoderosas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209021400 -0400" stop="20190209022600 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">As Meninas Superpoderosas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209022600 -0400" stop="20190209023800 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">As Meninas Superpoderosas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209023800 -0400" stop="20190209025000 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">As Meninas Superpoderosas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209025000 -0400" stop="20190209030200 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">As Meninas Superpoderosas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209030200 -0400" stop="20190209031300 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209031300 -0400" stop="20190209032700 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209032700 -0400" stop="20190209033900 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209033900 -0400" stop="20190209035100 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209035100 -0400" stop="20190209040300 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209040300 -0400" stop="20190209042700 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209042700 -0400" stop="20190209043800 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209043800 -0400" stop="20190209050100 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Megas XLR</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209050100 -0400" stop="20190209051200 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">KND</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209051200 -0400" stop="20190209052600 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">KND</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209052600 -0400" stop="20190209053700 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">KND</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209053700 -0400" stop="20190209055000 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">As Trapalhadas de Flapjack</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209055000 -0400" stop="20190209060000 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Laboratório de Dexter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209060000 -0400" stop="20190209060600 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">New Looney Tunes</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209060600 -0400" stop="20190209061200 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">New Looney Tunes</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209061200 -0400" stop="20190209061900 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">New Looney Tunes</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209061900 -0400" stop="20190209062500 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">New Looney Tunes</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209062500 -0400" stop="20190209063100 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">New Looney Tunes</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209063100 -0400" stop="20190209065500 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Que Legal, Scooby-Doo!</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209065500 -0400" stop="20190209070200 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Zuzubalândia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209070200 -0400" stop="20190209071100 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Zuzubalândia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209071100 -0400" stop="20190209072300 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Tá Chovendo Hambúrguer</title>
-    <sub-title lang="pt">A Série</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209072300 -0400" stop="20190209073400 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209073400 -0400" stop="20190209074700 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209074700 -0400" stop="20190209075900 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209075900 -0400" stop="20190209081300 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Clarêncio, o Otimista</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209081300 -0400" stop="20190209082500 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Clarêncio, o Otimista</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209082500 -0400" stop="20190209083200 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">A Turma da Mônica</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209083200 -0400" stop="20190209084800 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">A Turma da Mônica</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209084800 -0400" stop="20190209085700 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">A Turma da Mônica</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209085700 -0400" stop="20190209092400 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Dragões: Corrida Até O Limite</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209092400 -0400" stop="20190209093500 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209093500 -0400" stop="20190209094800 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209094800 -0400" stop="20190209100000 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209100000 -0400" stop="20190209101200 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Ben 10</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209101200 -0400" stop="20190209102300 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Unigata</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209102300 -0400" stop="20190209103400 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Unigata</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209103400 -0400" stop="20190209110000 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Barbie Dreamhouse Adventures</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209110000 -0400" stop="20190209112200 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Irmão do Jorel</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209112200 -0400" stop="20190209113300 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Irmão do Jorel</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209113300 -0400" stop="20190209114800 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Oswaldo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209114800 -0400" stop="20190209120000 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Oswaldo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209120000 -0400" stop="20190209134400 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Uma Aventura Lego</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209134400 -0400" stop="20190209140000 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Ursos Sem Curso</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209140000 -0400" stop="20190209141300 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Unigata</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209141300 -0400" stop="20190209142400 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Unigata</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209142400 -0400" stop="20190209143800 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">OK, K.O.! Vamos Ser Heróis</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209143800 -0400" stop="20190209144900 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">OK, K.O.! Vamos Ser Heróis</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209144900 -0400" stop="20190209150100 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Steven Universo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209150100 -0400" stop="20190209151400 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Steven Universo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209151400 -0400" stop="20190209152500 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Steven Universo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209152500 -0400" stop="20190209154800 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209154800 -0400" stop="20190209160000 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209160000 -0400" stop="20190209161000 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Transformers</title>
-    <sub-title lang="pt">Cyberverse</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209161000 -0400" stop="20190209162300 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Transformers</title>
-    <sub-title lang="pt">Cyberverse</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209162300 -0400" stop="20190209163400 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Transformers</title>
-    <sub-title lang="pt">Cyberverse</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209163400 -0400" stop="20190209170000 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Power Rangers</title>
-    <sub-title lang="pt">Super Aço Ninja</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209170000 -0400" stop="20190209171300 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Steven Universo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209171300 -0400" stop="20190209172500 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">As Meninas Superpoderosas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209172500 -0400" stop="20190209173600 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Maçã e Cebola</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209173600 -0400" stop="20190209174800 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Maçã e Cebola</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209174800 -0400" stop="20190209180000 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Maçã e Cebola</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209180000 -0400" stop="20190209181300 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Mundo de Greg</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209181300 -0400" stop="20190209182400 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Mundo de Greg</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209182400 -0400" stop="20190209183700 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209183700 -0400" stop="20190209184800 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209184800 -0400" stop="20190209190000 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209190000 -0400" stop="20190209191400 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Unigata</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209191400 -0400" stop="20190209192500 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Unigata</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209192500 -0400" stop="20190209193700 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">OK, K.O.! Vamos Ser Heróis</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209193700 -0400" stop="20190209195200 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">OK, K.O.! Vamos Ser Heróis</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209195200 -0400" stop="20190209200400 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">OK, K.O.! Vamos Ser Heróis</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209200400 -0400" stop="20190209201500 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Mundo de Greg</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209201500 -0400" stop="20190209202900 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Mundo de Greg</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209202900 -0400" stop="20190209204100 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Mundo de Greg</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209204100 -0400" stop="20190209205500 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Mundo de Greg</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209205500 -0400" stop="20190209210600 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Mundo de Greg</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209210600 -0400" stop="20190209212100 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Mundo de Greg</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209212100 -0400" stop="20190209213200 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Mundo de Greg</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209213200 -0400" stop="20190209214700 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Mundo de Greg</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209214700 -0400" stop="20190209215800 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Mundo de Greg</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209215800 -0400" stop="20190209220900 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Mundo de Greg</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209220900 -0400" stop="20190209222400 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209222400 -0400" stop="20190209223600 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209223600 -0400" stop="20190209225000 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Hora de Aventura</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209225000 -0400" stop="20190209230100 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Hora de Aventura</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209230100 -0400" stop="20190209232800 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Dragon Ball Super</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209232800 -0400" stop="20190209235200 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Dragon Ball Super</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190209235200 -0400" stop="20190210001600 -0400" channel="Cartoon Network FHD">
-    <title lang="pt">Dragon Ball Super</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
+  <programme start="20190209000000 +0000" stop="20190209235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
   </programme>
   <programme start="20190209014700 -0400" stop="20190209042800 -0400" channel="Cinemax FHD">
     <title lang="pt">Lone Star</title>
@@ -1345,6 +91,318 @@
   </programme>
   <programme start="20190209220000 -0400" stop="20190210005200 -0400" channel="Cinemax FHD">
     <title lang="pt">A Origem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209005500 -0400" stop="20190209025000 -0400" channel="HBO 2 FHD">
+    <title lang="pt">O Sentido do Fim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209025000 -0400" stop="20190209043500 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Vida de Solteiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209043500 -0400" stop="20190209063000 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Os Caça-Fantasmas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209063000 -0400" stop="20190209081000 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Scooby-Doo! 2: Monstros à Solta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209081000 -0400" stop="20190209104000 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Mulher Maravilha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209104000 -0400" stop="20190209124500 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Blade 2: O Caçador de Vampiros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209124500 -0400" stop="20190209143500 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Sobrenatural: A Última Chave</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209143500 -0400" stop="20190209165000 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Conexão Escobar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209165000 -0400" stop="20190209184000 -0400" channel="HBO 2 FHD">
+    <title lang="pt">O Começo de um Novo Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209184000 -0400" stop="20190209202500 -0400" channel="HBO 2 FHD">
+    <title lang="pt">A Verdade Nua e Crua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209202500 -0400" stop="20190209220500 -0400" channel="HBO 2 FHD">
+    <title lang="pt">O Que Será de Nozes 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209220500 -0400" stop="20190209234500 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Pedro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209234500 -0400" stop="20190210021000 -0400" channel="HBO 2 FHD">
+    <title lang="pt">Valerian e a Cidade dos Mil Planetas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209021500 -0400" stop="20190209040000 -0400" channel="Telecine Action HD">
+    <title lang="pt">Vingança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209040000 -0400" stop="20190209053500 -0400" channel="Telecine Action HD">
+    <title lang="pt">A Herdeira Sedutora</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209053500 -0400" stop="20190209073000 -0400" channel="Telecine Action HD">
+    <title lang="pt">A Ameaça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209073000 -0400" stop="20190209091000 -0400" channel="Telecine Action HD">
+    <title lang="pt">Bad Ass</title>
+    <sub-title lang="pt">Acima da Lei</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209091000 -0400" stop="20190209110500 -0400" channel="Telecine Action HD">
+    <title lang="pt">Corpo Fechado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209110500 -0400" stop="20190209123500 -0400" channel="Telecine Action HD">
+    <title lang="pt">Renascida do Inferno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209123500 -0400" stop="20190209142000 -0400" channel="Telecine Action HD">
+    <title lang="pt">12 Horas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209142000 -0400" stop="20190209160500 -0400" channel="Telecine Action HD">
+    <title lang="pt">O Grande Assalto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209160500 -0400" stop="20190209175500 -0400" channel="Telecine Action HD">
+    <title lang="pt">Jogo do Dinheiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209175500 -0400" stop="20190209200000 -0400" channel="Telecine Action HD">
+    <title lang="pt">Caçadores de Homens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209200000 -0400" stop="20190209220000 -0400" channel="Telecine Action HD">
+    <title lang="pt">Kick-Ass 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209220000 -0400" stop="20190210002500 -0400" channel="Telecine Action HD">
+    <title lang="pt">Creed: Nascido para Lutar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209003000 -0400" stop="20190209010000 -0400" channel="SporTV FHD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209010000 -0400" stop="20190209013000 -0400" channel="SporTV FHD">
+    <title lang="pt">Boteco do Escobar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209013000 -0400" stop="20190209023000 -0400" channel="SporTV FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ferroviário CE x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209023000 -0400" stop="20190209033000 -0400" channel="SporTV FHD">
+    <title lang="pt">Campeonato Sul-americano de Futebol Sub-20: Equador x Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209033000 -0400" stop="20190209040000 -0400" channel="SporTV FHD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209040000 -0400" stop="20190209050000 -0400" channel="SporTV FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Cabofriense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209050000 -0400" stop="20190209060000 -0400" channel="SporTV FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">River PI x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209060000 -0400" stop="20190209070000 -0400" channel="SporTV FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Juazeirense x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209070000 -0400" stop="20190209080000 -0400" channel="SporTV FHD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209080000 -0400" stop="20190209090000 -0400" channel="SporTV FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Altos PI x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209090000 -0400" stop="20190209100000 -0400" channel="SporTV FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Talleres (ARG) x São Paulo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209100000 -0400" stop="20190209110000 -0400" channel="SporTV FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ferroviário CE x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209110000 -0400" stop="20190209120000 -0400" channel="SporTV FHD">
+    <title lang="pt">Campeonato Sul-americano de Futebol Sub-20: Equador x Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209120000 -0400" stop="20190209130000 -0400" channel="SporTV FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Juazeirense x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209130000 -0400" stop="20190209140000 -0400" channel="SporTV FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Cabofriense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209140000 -0400" stop="20190209150000 -0400" channel="SporTV FHD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209150000 -0400" stop="20190209160000 -0400" channel="SporTV FHD">
+    <title lang="pt">Tá na Área</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209160000 -0400" stop="20190209163000 -0400" channel="SporTV FHD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209163000 -0400" stop="20190209183000 -0400" channel="SporTV FHD">
+    <title lang="pt">Caldense x Atlético MG</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209183000 -0400" stop="20190209190000 -0400" channel="SporTV FHD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209190000 -0400" stop="20190209210000 -0400" channel="SporTV FHD">
+    <title lang="pt">São Caetano x Oeste</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209210000 -0400" stop="20190209223000 -0400" channel="SporTV FHD">
+    <title lang="pt">Troca de Passes</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209223000 -0400" stop="20190209233000 -0400" channel="SporTV FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190209233000 -0400" stop="20190210003000 -0400" channel="SporTV FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ponte Preta x São Paulo</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
