@@ -9,8 +9,8 @@
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="HBO FHD">
-    <display-name lang="pt">HBO FHD</display-name>
-    <url>http://www.netcombo.com.br</url>
+    <display-name lang="es">HBO FHD</display-name>
+    <url>http://www.mi.tv</url>
   </channel>
   <channel id="HBO 2 FHD">
     <display-name lang="pt">HBO 2 FHD</display-name>
@@ -20,9 +20,57 @@
     <display-name lang="pt">Telecine Action HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="Telecine Action">
+    <display-name lang="es">Telecine Action</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Action SD">
+    <display-name lang="es">Telecine Action SD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="es">Telecine Cult</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="es">Telecine Fun</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Fun SD">
+    <display-name lang="es">Telecine Fun SD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="es">Telecine Pipoca</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca SD">
+    <display-name lang="es">Telecine Pipoca SD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="es">Telecine Premium</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Premium SD">
+    <display-name lang="es">Telecine Premium SD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="es">Telecine Touch</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Telecine Touch SD">
+    <display-name lang="es">Telecine Touch SD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
   <channel id="SporTV FHD">
     <display-name lang="pt">SporTV FHD</display-name>
     <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="RBS TV HD">
+    <display-name lang="es">RBS TV HD</display-name>
+    <url>http://www.mi.tv</url>
   </channel>
   <programme start="20190209000000 +0000" stop="20190209235900 +0000" channel="Example">
     <title lang="en">dummy program - Full Day Show</title>
